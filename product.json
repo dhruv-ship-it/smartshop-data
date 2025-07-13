@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Shirt",
+    "category": "Clothing",
+    "price": 999,
+    "currency": "INR",
+    "size": ["S", "M", "L", "XL"],
+    "color": "White",
+    "material": "Cotton",
+    "gender": "Unisex",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "description": "A stylish and comfortable white cotton shirt, perfect for formal and casual wear."
+  }
+]
